@@ -1,5 +1,4 @@
-const express = require('express');
-const router = express.Router();
+const express = require('expres
 const database = require('../sql/database.js');
 const fs = require('fs/promises');
 
